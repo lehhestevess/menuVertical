@@ -6,7 +6,7 @@ body{
     width: 200px;
   }
 .vertical-menu a {
-    background-color: rgb(230, 30, 57);
+    background-color: rgb(228, 88, 106);
     color: black;
     display: block;
     padding: 12px;
@@ -19,7 +19,7 @@ body{
   
   .vertical-menu a.active {
     background-color:#f36073 ;
-    color:#eb4553;
+    color:#000000;
   }
 
 
