@@ -22,7 +22,10 @@ body{
     color:#000000;
   }
 
-
+  center {
+    text-align: center;
+    color: rgb(201, 78, 78);
+  }
 
   
   
