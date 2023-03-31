@@ -10,10 +10,19 @@
   }
   
   .vertical-menu a:hover {
-    background-color: #04AA6D;
+    background-color: #eff8f5;
   }
   
   .vertical-menu a.active {
-    background-color:#04AA6D ;
-    color:#04AA6D;
+    background-color:#f6f7f6 ;
+    color:#e9f0ed;
   }
+
+
+
+  
+  
+  
+  
+  
+
