@@ -1,0 +1,1 @@
+window.alert(por favor verifique essa página antes de naveger);
