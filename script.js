@@ -1,1 +1,2 @@
-window.alert(por favor verifique essa página antes de naveger);
+window.alert("verifique esta paágina antes de navegar");
+
