@@ -2,7 +2,7 @@ body{
   background-color: #04AA6D;
 
 }
-.vertical-menu, h1 {
+.vertical-menu, h1, p {
     width: 200px;
     margin-left: auto;
     margin-right: auto;
